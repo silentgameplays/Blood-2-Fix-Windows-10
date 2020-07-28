@@ -6,7 +6,10 @@ Blood 2 Fix Windows 10
 
 1. Download and put all the files into the C:\Program Files (x86)\Steam\steamapps\common\Blood II
 
-2. Launch game
+2. NVIDIA Control Panel>Program Settings>Manage 3D Settings>Blood 2:The Chosen>Max Framerate 60
+   Client.exe >Max Framerate 60
+   Other option is to use rivatuner
+3. Launch game
 
 Thats it,enjoy 
 gimalaji_blake
