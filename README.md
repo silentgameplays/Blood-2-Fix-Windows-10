@@ -1,4 +1,4 @@
-# Blood-2-Fix-Windows-10
+# Blood-2-Fix-Windows-10 (1809-1909 builds)
 Blood 2 Fix Windows 10 
 
 
